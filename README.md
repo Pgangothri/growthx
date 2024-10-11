@@ -63,5 +63,5 @@ To get a local copy of the project up and running, follow these steps:
 - Accept or reject assignments:/assignments/id/accept or reject (POST)
 ### Postman Collection
 You can download the Postman collection from the following link:
-[Download Postman Collection](https://www.postman.com/collections/27536473-2sAXxS6WLX)
+[https://documenter.getpostman.com/view/27536473/2sAXxS6WLX)
   
